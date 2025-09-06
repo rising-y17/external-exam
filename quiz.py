@@ -1,6 +1,7 @@
 ﻿import os
 import json
 import random
+import textwrap
 
 def load_quiz(folder="quiz_list"):
     quiz_groups = {}
