@@ -3,6 +3,15 @@ import json
 import random
 import textwrap
 
+def print_wrapped_preserve(text, width=25):
+    paragraphs = text.split("\n")  # 원래 줄바꿈 기준으로 분리
+    for para in paragraphs:
+        if para.strip() == "":
+            print()  # 빈 줄 그대로 출력
+        else:
+            for line in textwrap.wrap(para, width):
+                print(line)
+
 def load_quiz(folder="quiz_list"):
     quiz_groups = {}
     for filename in os.listdir(folder):
@@ -52,10 +61,7 @@ def run_quiz(quiz_list):
 
     for i, quiz in enumerate(quiz_list, start=1):
         print(f"\n--- 문제 {i}/{total} ---")
-        wrapped_list = textwrap.wrap(quiz["question"], width=25)
-
-        for line in wrapped_list:
-            print(line)
+        print_wrapped_preserve(quiz["question"])
 
         # 사용자 입력 받기
         user_answer = input("정답 입력: ").strip()
