@@ -51,7 +51,10 @@ def run_quiz(quiz_list):
 
     for i, quiz in enumerate(quiz_list, start=1):
         print(f"\n--- 문제 {i}/{total} ---")
-        print(quiz["question"])
+        wrapped_list = textwrap.wrap(quiz["question"], width=50)
+
+        for line in wrapped_list:
+            print(line)
 
         # 사용자 입력 받기
         user_answer = input("정답 입력: ").strip()
