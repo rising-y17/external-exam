@@ -378,7 +378,7 @@
       "answers": [
         "과도 해석"
       ],
-      "question": "PSpice를 이용한 회로해석 중 다음은 무엇에 대한 설명인가?\n'시간영역에서 입력신호에 대한 출력을 결정하는 해석을 말한다. 이 해석의 계산방법은 항상 L과 C의 현재의 계산 값을 초기값으로 하여 다음 스텝의 \n계산을 수행한다.'",
+      "question": "PSpice를 이용한 회로해석 중 다음은 무엇에 대한 설명인가?\n'시간영역에서 입력신호에 대한 출력을 결정하는 해석을 말한다. 과도 \n해석의 계산방법은 항상 L과 C의 현재의 계산 값을 초기값으로 하여 다음 스텝의 \n계산을 수행한다.'",
       "wrong_count": 0
     },
     {
@@ -541,7 +541,251 @@
       ],
       "question": "다음 설계 제한사항 체크 시의 검토 내용에 따른 툴-분류는?\n1. Logic의 Import / Update 방법\n2. Manual 단축키 활용법\n3. Padstack 및 Symbol의 Update 방법\n4. Manual 및 Quick Placement\n5. Advanced Placement\n6. Interactive Manual 및 Automatic Routing\n7. Copper Area 및 Plane\n8. Glossing\n9. 설계 검사(Status) 활용법\n10. Gerber File 생성 및 출력",
       "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "PCB Editor 기본환경 설정은 회로-기초작업의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Constraints(Design Rule) 설정법은 레이아웃-패턴작업의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "X"
+      ],
+      "question": "Netlist 생성은 레이아웃-패턴작업의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Netlist 생성은 회로-기초작업의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "X"
+      ],
+      "question": "Gerber File 생성 및 출력은 레이아웃-패턴작업의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "X"
+      ],
+      "question": "Gerber File 생성 및 출력은 데이터-생성 및 출력의 검토 내용인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Grid Display"
+      ],
+      "question": "Capture에서 회로도면 편집기와 부품 편집기에 Grid를 설정할 수 있으며, 표시 여부와 형태, 간격 및 스냅 여부를 설정하는 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Auto backup"
+      ],
+      "question": "Capture에서 백업 시간, 백업 파일 수, 백업 디렉터리를 지정하는 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check single node nets는어디에도 연결되지 않는 wire를 검사하는 것인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check no driving source and Pin type conflicts는 ERC Matrix설정에 따른 검사를 하는 것인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check Duplicate net names는 넷 이름의 중복에 대한 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check off-page connector connections는 off-page connector 사용 시 다른 페이지와 연결이 바르게 되어 있는지 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check hierarchical port connections는 계층구조 도면과 연결을 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check unconnected bus nets는 버스와 넷의 연결되지 않은 net을 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check unconnected pins는 배선이 연결되지 못한 핀에 대한 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "O"
+      ],
+      "question": "Check SDT compatibility는 SDT 포맷으로 변환할 때의 변환오류를 검사를 하는 것 인가?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "부품 배치 및 배선"
+      ],
+      "question": "회로 설계 Part의 진행 순서는?\nNew Project 생성-(          )-PCB Footprint 부여-Annotate / DRC / Netlist 생성",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "PCB Footprint 부여"
+      ],
+      "question": "회로 설계 Part의 진행 순서는?\nNew Project 생성-부품 배치 및 배선-(            )-Annotate / DRC / Netlist 생성",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "New Project 생성"
+      ],
+      "question": "회로 설계 Part의 진행 순서는?\n(          )-부품 배치 및 배선-PCB Footprint 부여-Annotate / DRC / Netlist 생성",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Annotate / DRC / Netlist 생성"
+      ],
+      "question": "회로 설계 Part의 진행 순서는?\nNew Project 생성-부품 배치 및 배선-PCB Footprint 부여-(             )",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Menu Bar"
+      ],
+      "question": "Capture 화면의 메뉴구성중 각종 명령이 텍스트 형태로 구성되어 선택할 수 있도록 되어 있는 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Tool Bar"
+      ],
+      "question": "Capture 화면의 메뉴구성중 메뉴바의 각종 명령 중에서 자주 사용되는 명령을 마우스로 클릭하여 쉽게 작업할 수 있도록 하기 위한 아이콘들로 구성되어 있는 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "Tool Plate"
+      ],
+      "question": "Capture 화면의 메뉴구성중 도면 작업에서 가장 많이 사용되는 기능들을 아이콘으로 구성된 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "프로젝트 관리 창"
+      ],
+      "question": "Capture 화면의 메뉴구성중 파일을 새로 만들거나 기존 파일을 여는 경우에 사용되는 창으로 여러 도면 사이의 상호관계, 도면 작업시 생성되는 각종 보고서 파일 등을 포함하는 프로젝트를 종합적으로 관리하는 창은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "도면 편집기 창"
+      ],
+      "question": "Capture 화면의 메뉴구성중 전자회로 도면을 작성하는 창으로 작업 도면의 크기는 사용자가 임의로 설정할\n수 있는 창은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "작업 기록 창"
+      ],
+      "question": "Capture 화면의 메뉴구성중 회로를 설계할 때 모든 작업 내용을 기록하는 기능을 하는 창은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "기본 구성, 디자인 템플릿 설정, 자동백업 설정, 도면특성 설정"
+      ],
+      "question": "Capture의 환경 설정 4가지는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "TOP"
+      ],
+      "question": "TOP 면의 패턴, 핀, 비아 등의 동박 부분에 관한 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "BOTTOM"
+      ],
+      "question": "아래면의 패턴, 핀, 비아 등의 동박 부분에 관한 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "SOLDER MASK-TOP"
+      ],
+      "question": "TOP 면의 핀, 비아 등 납이 묻을 부분에 대한 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "SOLDER MASK-BOTTOM"
+      ],
+      "question": "BOTTOM 면의 핀, 비아 등 나이 묻을 부분에 대한 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "SILK SCREEN"
+      ],
+      "question": "보드에 그림, 글씨 등의 정보를 표시하는 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "DRILL- DRAW"
+      ],
+      "question": "드릴 심벌 정보, 치수 등의 드릴에 관한 정보를 표시하는 것은?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "NC-DRILL"
+      ],
+      "question": "드릴 작업에 필요한 좌표, 드릴 사이즈 등의 정보는?",
+      "wrong_count": 0
+    },
+    {
+      "answers": [
+        "ASSEMBLY"
+      ],
+      "question": "조립 시 확인할 수 있는 프린트용 정보는?",
+      "wrong_count": 0
     }
   ]
 }
-
