@@ -768,7 +768,7 @@
     },
     {
       "answers": [
-        "DRILL- DRAW"
+        "DRILL-DRAW"
       ],
       "question": "드릴 심벌 정보, 치수 등의 드릴에 관한 정보를 표시하는 것은?",
       "wrong_count": 0
@@ -789,6 +789,7 @@
     }
   ]
 }
+
 
 
 
