@@ -756,7 +756,7 @@
       "answers": [
         "SOLDER MASK-BOTTOM"
       ],
-      "question": "BOTTOM 면의 핀, 비아 등 나이 묻을 부분에 대한 정보는?",
+      "question": "BOTTOM 면의 핀, 비아 등 납이 묻을 부분에 대한 정보는?",
       "wrong_count": 0
     },
     {
@@ -789,4 +789,5 @@
     }
   ]
 }
+
 
