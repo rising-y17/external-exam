@@ -12,7 +12,7 @@ def print_wrapped_preserve(text, width=25):
             for line in textwrap.wrap(para, width):
                 print(line)
 
-def load_quiz(folder="quiz_list"):
+def load_quiz(folder="quiz_groups"):
     quiz_groups = {}
     for filename in os.listdir(folder):
         if filename.endswith(".json"):
