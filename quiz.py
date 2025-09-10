@@ -86,6 +86,6 @@ def run_quiz(quiz_list):
         print("풀은 문제가 없습니다.")
 
 if __name__ == "__main__":
-    quizzes = load_quiz("quiz_list")
+    quizzes = load_quiz()
     selected = select_quiz_group(quizzes)
     run_quiz(selected)
