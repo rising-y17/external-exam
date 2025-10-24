@@ -1,0 +1,648 @@
+{
+    "quiz": [
+        {
+            "question": "권고안의 작성 및 개정의 근거는?",
+            "answers": [
+                "서면으로 제출된 기고서"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "통신 protocol이란?",
+            "answers": [
+                "통신을 하는 주체가 사람이 아닌 Computer와 Computer, Computer와 Terminal사이의 Data 전송장치 상호간에 미리 약정된 절차/규칙"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "TAP (Traditional Approval Process) 란?",
+            "answers": [
+                "제도 또는 정책적 이슈가 포함된 표준에 사용,회원국의 협력(의견 수렴)을 요청하는 절차"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "표준화의 필요성 3가지\n공통 표준을 통한 market 확대",
+            "answers": [
+                "해당 기술적인 대상에 대하여 표준화를 통하여 상호 연동성,상호 접속 및 시스템 통합 시 문제점 해결 확보"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "금지 사항은?",
+            "answers": [
+                "이론적인 관심사나 논문,상업적인 성격이 강한 문구는 절대 포함하면 안 됨"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "TSB 란?",
+            "answers": [
+                "표준화 사무국,기고서 등록,문서 관리,참가 신청 등 실무 행정을 지원"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "OSI (Open System Interconnection) 참조모델 수립은?",
+            "answers": [
+                "국제 표준화 기구 ISO 에서 정립"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "ITU-T 권고안 H 시리즈는?",
+            "answers": [
+                "비전화 신호의 전송"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "Sector Member(부문회원) 란?",
+            "answers": [
+                "산업체,연구기관 등 부문 총회 및 SG회의에서 의장단 피선거권을 가지며 표준 결정에 참여"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "IEEE 802.15 표준은?",
+            "answers": [
+                "Wireless Personal Area Networks"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "임시문서의 종류는?",
+            "answers": [
+                "Rapporteur 보고서,의장 보고서,에디터가 작성 권고 초안"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "인터넷(Internet-대문자) 이란?",
+            "answers": [
+                "100만개 이상의 네트워크가 상호 연결된 네트워크"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "TSAG 란?",
+            "answers": [
+                "전기통신 표준화 자문반,WTSA가 열리지 않는 기간 동안 ITU-T의 전략, 우선순위, 작업 방법 등을 조정하고 관리,연 1회 개최"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "인터넷(internet-소문자) 이란?",
+            "answers": [
+                "서로 통신할 수 있는 둘 이상의 네트워크"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "ITU-T 권고안 X 시리즈는?",
+            "answers": [
+                "데이터 망과 개방 시스템 통신"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "WP란?",
+            "answers": [
+                "Working Party,작업반,SG 산하에서 세분화된 표준화 작업을 진행"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "표준화 작업의 기반은?",
+            "answers": [
+                "기고서"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "Academia (학계회원) 란?",
+            "answers": [
+                "하나의 부문 내 모든 활동에 참여 가능"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "회의 후 필수 사항 2가지",
+            "answers": [
+                "회의록 점검,결과 확인"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "WTSA 란?",
+            "answers": [
+                "세계전기통신표준화총회,ITU-T 부문의 최고 정책 결정 기구"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "표준의 적용이란?",
+            "answers": [
+                "관련 표준에 대한 해당 국가,단체,사업자,시스템 공급자 간의 공통의 합의를 통한 표준의 적용"
+            ],
+            "wrong_count": 1
+        },
+        {
+            "question": "전권회의(PP, Plenipotentiary Conference) 란?",
+            "answers": [
+                "ITU의 최고 의사결정기구,4년마다 개최,ITU 헌장 개정,예산 승인,이사국 및 고위 임원 선출"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "신호의 형태는?",
+            "answers": [
+                "아날로그 통신,디지털 통신"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "프로토콜(Protocol) (=조약, 규약) 이란?",
+            "answers": [
+                "국가간에 상호 동의한 조약에 관한 의정서나 행동규약,외교상의 의례"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "글로벌 표준화 환경 변화 4가지",
+            "answers": [
+                "표준 블록화,리더십 경쟁,정부의 개입,사실표준화 확대"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "임시문서 란?",
+            "answers": [
+                "회의 중에 생성되는 문서"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802.21 표준은?",
+            "answers": [
+                "Media Independent Handover"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "기타 RFC 종류 3가지",
+            "answers": [
+                "실험 단계,정보 제공,기록 단계"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "회의보고서 란?",
+            "answers": [
+                "회의 종료 후 TSB에 제출되는 공식 결과 보고서"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Member State(회원국) 란?",
+            "answers": [
+                "정부 대표,유일하게 투표권을 가짐"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ICT 표준의 중요성 3가지",
+            "answers": [
+                "경쟁의 핵심,표준의 무기화,가치 중심으로 확장"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "정상기고서(Normal/White Contribution) 란?",
+            "answers": [
+                "회의 개최 2개월 이상 전에 제출된 공식 문서,3개의 공식 언어로 번역"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "회의록 주요 내용 5가지",
+            "answers": [
+                "기고서 요약 및 결과 정리, 승인된 권고안 및 Living List, 신규 및 개정 권고안 초안, 다른 SG로 보내는 Liaison 문서, 향후 회의 계획"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "회의 참가 절차는?",
+            "answers": [
+                "소집 메일 확인,기고서 작성 및 제출,회의 참가 등록"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Question 이란?",
+            "answers": [
+                "WP 산하의 가장 구체적인 표준화 항목,대부분의 실질적인 논의 진행"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "SG Chairman (연구반 의장) 이란?",
+            "answers": [
+                "WTSA에서 선출,해당 SG를 대표,WP 의장단을 선임"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "핵심 위원회 (IEEE 802) 는?\nLAN 접속 방법 및 프로토콜 표준들을 제정",
+            "answers": [
+                "가장 널리 알려진 위원회로,LAN 및 MAN 기술을 표준화하기 위해 설립"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Liaison Statements 란?",
+            "answers": [
+                "다른 SG나 표준화 기구와 정보를 교환하는 문서"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IETF 표준화 절차",
+            "answers": [
+                "제안 표준,드래프트 표준,인터넷 표준"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IETF (Internet Engineering Task Force) 정의는?",
+            "answers": [
+                "인터넷의 새로운 기술을 제시하고 인터넷 표준안을 제정하는 기술 위원회"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "데이터 통신의 정의는?",
+            "answers": [
+                "전기전자적 혹은 빛을 이용한 기술 또는 장치의 도움을 받아서 원격지와 원격지 간에 이루어지는 정보의 교류"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802 위원회 산하 6가지(IEEE 802.@...)",
+            "answers": [
+                "1,3,11,15,16,21"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준의 종류 3가지와 정의",
+            "answers": [
+                "De Jure 표준: ITU나 ISO 등과 같은 공식 협의체를 통한 표준, 포럼/컨소시엄 표준: 특정기술분야의 표준화를 위하여 임의로 결성된 조직체 또는 특정 기업 연합을 통한 표준, De facto 표준: 공식 표준없이 시장 주도적인 사업자 또는 단체 표준"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "기고서의 초점은?",
+            "answers": [
+                "현재 작업 중인 권고 초안에 대한 수정안 제안"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Associate (준회원) 란?",
+            "answers": [
+                "특정 연구반 활동에만 참여"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "SG란?",
+            "answers": [
+                "Study Group,연구반,실질적인 표준을 개발"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802.3 표준은?",
+            "answers": [
+                "CSMA/CD"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "통신의 이용 대상은?",
+            "answers": [
+                "공중통신, 전용통신"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "의견 대립 시 대응안 4가지",
+            "answers": [
+                "Editing Group이 결성되어 세부 문구를 조율, 실질적인 협의는 Coffee break나 Lunch time에 이루어지는 경우가 대다, Voting(투표)은 최대한 지양, Living list에 현안으로 등재 시, 실질적 미 반영이므로 다음 회의에 다시 제출해야 함"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "사전 작업은?",
+            "answers": [
+                "기고 전에 Rapporteur 에게 이메일로 의사를 타진, 세부 기술 이슈는 Email 그룹에서 사전에 검토 및 회람하여 의견을 수렴"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준화 단체와 프로토콜 그룹 계층을 쓰시오.",
+            "answers": [
+                "OSI,ITU-T Protocols,IETF Protocols 3,4,5,6,7계층,IEEE의 Protocols 1,2계층"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU-T 권고안 Z 시리즈는?",
+            "answers": [
+                "프로그래밍 언어"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "이사회(Council)란?",
+            "answers": [
+                "전권회의가 위임한 권한 내에서 ITU의 전반적인 관리와 행정을 감독"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IETF (Internet Engineering Task Force) 특징은?",
+            "answers": [
+                "운영상의 문제점을 파악하고 해결책을 제공하며, 인터넷 표준 규격을 개발, IETF의 표준 문서는 RFC (Request for Comment)라는 이름으로 출판"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802.1 표준은?",
+            "answers": [
+                "HILI"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준 승인 절차 2가지",
+            "answers": [
+                "AAP,TAP"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "기고서의 구조는?",
+            "answers": [
+                "논리적인 근거,토의,제안,결론"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802.16 표준은?",
+            "answers": [
+                "Broadband Wireless Access"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "정보의 표현 형태는?",
+            "answers": [
+                "음성,데이터,화상,영상,멀티미디어"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준화 종류별 특징은?\n1) 공식(De Jure) 표준 : \n2) 포럼/컨소시엄 표준 : \n3) 사실(De facto) 표준 :",
+            "answers": [
+                "투명하고 공개된 절차에 따라 제정, 필요시 지역(국가)의 실정 반영 | 시장수요를 반영한 신속하고 유연한 표준화, 동일분야에서 다수의 조직에 의한 표준화 경쟁 발생 | 시장의 경쟁 결과 승리한 제품 등의 표준"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "지연 기고서(Delayed Contribution) 란?",
+            "answers": [
+                "회의 시작 2주 전까지 제출하는 기고서"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Editor (에디터) 란?",
+            "answers": [
+                "권고안의 문서 초안을 실질적으로 작성하는 사람"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "전송 매체 종류는?",
+            "answers": [
+                "유선 통신,무선통신"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "OSI (Open System Interconnection) 참조모델이란?",
+            "answers": [
+                "컴퓨터 프로토콜 구조를 위한 모델 및 프로토콜 표준 개발을 위한 프레임 워크"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "네트워크(Network, 망)의 정의는?",
+            "answers": [
+                "컴퓨터나 교환기,라우터와 같은 통신 장치들이 서로 연결한 그룹"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE (Institute of Electrical and Electronics Engineers) 정의는?",
+            "answers": [
+                "전기전자공학자 협회로, 다양한 기술 분야의 표준을 제정"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "지연문서 란?",
+            "answers": [
+                "회의 개최 2개월 이내에서 7일 전 사이에 접수된 문서,번역 없이 원어로만 배포"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "임시문서(Temporary Document) 란?",
+            "answers": [
+                "회의 중에 의장,Rapporteur,Editor 등이 관련 자료 제출할 때 사용"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "송수신자의 이동여부는?",
+            "answers": [
+                "고정 통신,이동 통신"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "우리나라의 ICT 표준화 정책 방향 4가지",
+            "answers": [
+                "R&D-표준 연계 강화,표준화 전략 체계,표준 전문가 양성,표준 디지털화"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "세계전기통신회의(WCIT) 란?",
+            "answers": [
+                "국제전기통신서비스 및 수단에 관한 일반 원칙을 규정하거나 개정"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "통신의 정의는?",
+            "answers": [
+                "전기전자적 혹은 빛을 이용한 기술 또는 장치의 도움을 받아서 원격지와 원격지 간에 이루어지는 정보의 교류"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "권고란?",
+            "answers": [
+                "ITU-T 통신 분야의 표준,국제법으로 채택되지 않는 한 의무 사항은 아님"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준화 종류별 제정주체는?\n1) 공식(De Jure) 표준 :\n2) 포럼/컨소시엄 표준 : \n3) 사실(De facto) 표준 :",
+            "answers": [
+                "사회적으로 공인된 표준화 기구 | 특정기술분야의 표준화를 위하여 임의로 결성된 조직체 또는 특정 기업 연합 | 기업 등이 시장경쟁을 통해 획득"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "회의 문서의 종류는?",
+            "answers": [
+                "기고서,지연 기고서,임시문서,Liaison Statements"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU-T 권고안 Q 시리즈는?",
+            "answers": [
+                "스위칭과 신호"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU-T 권고안 Y 시리즈는?",
+            "answers": [
+                "차세대 통합 네트워크"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "Rapporteur 란?",
+            "answers": [
+                "Question(과제)의 책임자,SG나 WP 의장이 임명,권고 초안의 품질을 책임지고 SG에 제출"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "회의 전 준비 사항은?",
+            "answers": [
+                "TIES 정보 교환 서비스 가입,Corresponding Group 가입,현황 파악"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU의 핵심 부문 3가지 정의는?",
+            "answers": [
+                "ITU-T: 전기통신 표준화 부문 | ITU-R: 전파통신 부문 | ITU-D: 전기통신 개발 부문"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "기고서 발표 3가지 특징",
+            "answers": [
+                "참석자들이 기고서를 미리 읽었다고 간주, 발표는 핵심적인 주장과 의사 결정에 영향을 주는 사항을 중심으로 2~3분간 간단히 진행, PPT 자료 사용이 가능"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "기고서(Contribution) 란?",
+            "answers": [
+                "회의 개최 2개월 전에 제출하는 공식 기고서"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU(International Telecommunications Union) (국제전기통신연합) 역할은?",
+            "answers": [
+                "유무선통신,전파,방송,위성주파수"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "의결 및 반영전략 3가지",
+            "answers": [
+                "지지 확보,반대 의견 대응"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU에서의 표준의 적용은?",
+            "answers": [
+                "ITU는 전 회원의 합의를 유도"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU-T 권고안 G 시리즈는?",
+            "answers": [
+                "전송시스템, 미디어"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU의 핵심 부문 3가지 역할은?\nITU-T\nITU-R\nITU-D",
+            "answers": [
+                "일반 전기통신,전화,데이터 통신 시스템,코덱, NGN 등의 표준화 담당 | 주파수 스펙트럼의 효율적 사용 등 전파통신 관련 연구 및 표준화 담당 | 개발도상국의 전기통신 개발, 사이버 보안, 긴급통신 대응 등 담당"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "IEEE 802.11 표준은?",
+            "answers": [
+                "Wireless LAN"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준화 작업 흐름은?",
+            "answers": [
+                "표준화 대상 선정,표준화 계획 작성,요구조건 명확화 및 주요 기술 결정,상세 기술 결정,권고초안 최종화,승인 절차"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "AAP (Alternative Approval Process) 란?",
+            "answers": [
+                "기술적인 표준에 사용되는 신속한 승인 절차,SG 회의 내에서 의결,대부분의 권고안 방식"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "ITU(International Telecommunications Union) (국제전기통신연합) 정의는?",
+            "answers": [
+                "1865년 국제전신연합으로 시작한 가장 오래된 국제기구 1947년 UN 산하 전기통신 전문기구로 지정"
+            ],
+            "wrong_count": 0
+        },
+        {
+            "question": "표준화 종류별 조직은?\n1) 공식(De Jure) 표준 :\n2) 포럼/컨소시엄 표준 : \n3) 사실(De facto) 표준 :",
+            "answers": [
+                "(국제) ITU, ISO, IEC, JTC1, (지역) ETSI, APT, (국가) TTA, TTC, CCSA | 3GPP, W3C, IETF, OMA,World DMB Forum | (OS) Windows, Intel, VHS"
+            ],
+            "wrong_count": 0
+        }
+    ]
+}
